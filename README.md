@@ -47,5 +47,5 @@ GCC or any C compiler
 ![image alt](https://github.com/kaavya221103/mp3-tag-reader-c/blob/193f149e3de913771b2a85f3cd3e2c8872304cbf/Screenshots/3.mp3.jpg)
 # View after edit
 ![image alt](https://github.com/kaavya221103/mp3-tag-reader-c/blob/193f149e3de913771b2a85f3cd3e2c8872304cbf/Screenshots/4.mp3.jpg)
-Project Structure
+# Project Structure
 mp3-tag-reader-c/ │ ├─ sample.mp3 ├─ temp.mp3 ├─ images/ │ ├─ help.png │ ├─ view.png │ ├─ edit.png │ └─ v_after_edit.png ├─ README.md └─ .gitignore
