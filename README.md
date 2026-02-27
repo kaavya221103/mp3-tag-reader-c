@@ -8,7 +8,7 @@ Display metadata in a clean and readable format.
 Handle multiple MP3 files (optional batch processing).
 Lightweight and implemented entirely in C.
 # How to Run
-Clone the repository: git clone https://github.com/kaavya221103/mp3-tag-reader-c/tree/main
+Clone the repository: git clone (https://github.com/kaavya221103/mp3-tag-reader-c)
 
 # Compile the program
 gcc mp3_tag_reader.c -o mp3_tag_reader
